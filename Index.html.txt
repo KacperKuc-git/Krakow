@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Kraków, 3b</title>
+	</head>
+	<body>
+		<h1>Moje miasto Kraków</h1>
+	</body>
+</html>
